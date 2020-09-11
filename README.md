@@ -1,2 +1,1 @@
-# Mailbox
-Email Management Application
+This program manages an email (like a stripped down version of Outlook) except that you can't send and receive emails (naturally). However, this program has all the usual email features like deleting emails, creating new emails, moving emails to different folders, adding and removing emails, etc.
